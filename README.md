@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About Me
-I'm a Web Developer
+<div>
+  <p align="justify">Hello! I'm Quang Thoai Vu, a programmer passionate about building websites. I started my web development journey as a FrontEnd developer and aim to master various web development technologies. While I primarily focus on FrontEnd development, I've also been exposed to and worked with BackEnd during my university studies, building database systems for personal projects. I enjoy coding, and the colorful lines of code with intricate logic give me a sense of satisfaction when I understand how they work. I'm also interested in 3D design and its application in web development. I've explored WebGL and Three.js, and I find them fascinating. As an introvert but approachable person, I hope to connect with like-minded individuals to share my passion and apply my skills.</p>
+</div>
 
 ## Programming Languages and Frameworks
 <div>
@@ -60,6 +62,7 @@ I'm a Web Developer
 </div>
 
 ## Connect with Me
+To connect with me, you can find my professional profile and contact details on LinkedIn. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together!
 <div id="badges">
   <a href="https://www.linkedin.com/in/quang-thoai-vu-870b19240/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
