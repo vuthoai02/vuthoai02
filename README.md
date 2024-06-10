@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="300px"/>
+</div>
+
 ## Hi there 👋
 
 <!--
@@ -14,3 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div id="badges">
+  <a href="https://www.linkedin.com/in/quang-thoai-vu-870b19240/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
