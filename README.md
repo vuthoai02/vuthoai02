@@ -18,6 +18,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Programming Languages and Frameworks
+<div align="center">
+  <img src="https://img.shields.io/badge/Javascript-yellow?logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-blue?logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Bash-green?logo=bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/C++-blue?logo=cpp&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/React-blue?logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Laravel-orange?logo=laravel&logoColor=white" alt="React" />
+</div>
+
+## Database
+<div align="center">
+  <img src="https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white" alt="Bash" />
+</div>
+
 ## Connect with Me
 <div id="badges">
   <a href="https://www.linkedin.com/in/quang-thoai-vu-870b19240/">
