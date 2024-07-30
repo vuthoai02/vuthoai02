@@ -58,8 +58,9 @@
 ## Tools
 <div align="center">
   <img src="https://img.shields.io/badge/Figma-black?logo=figma&logoColor=white"
- alt="PHP" />
-  <img src="https://img.shields.io/badge/Postman-orange?logo=postman&logoColor=white" alt="Bash" />
+ alt="Figma" />
+ <img src="https://img.shields.io/badge/Postman-orange?logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Swagger-green?logo=swagger&logoColor=white" alt="Swagger" />
 </div>
 
 ## Connect with Me
