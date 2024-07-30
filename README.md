@@ -28,8 +28,21 @@
   <img src="https://img.shields.io/badge/Laravel-orange?logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Node.Js-green?logo=node.js&logoColor=white" alt="NodeJs" />
   <img src="https://img.shields.io/badge/NPM-red?logo=npm&logoColor=white" alt="NPM" />
-  <img src="https://img.shields.io/badge/Git-orange?logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Three.js-black?logo=three.js&logoColor=white" alt="Three.js" />
+</div>
+
+## CSS Framework
+<div align="center">
+  <img src="https://img.shields.io/badge/Bootstrap-orange?logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/MaterialUi-white?logo=mui&logoColor=blue" alt="MUI" />
+  <img src="https://img.shields.io/badge/TailwindCSS-white?logo=tailwindcss&logoColor=blue" alt="TailwindCSS" />
+</div>
+
+## VCS
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-orange?logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Gitlab-white?logo=gitlab&logoColor=orange" alt="GitLab" />
 </div>
 
 ## Database
